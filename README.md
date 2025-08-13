@@ -1,5 +1,32 @@
 # Nice to meet you, I'm Kevin 👋
-🚀 Currently working on and learning<br>- Sharpening data preprocessing, cleaning & wrangling skills — from feature engineering & selection to model evaluation & tuning<br><br>- Expanding into Tableau & Power BI for data visualization<br><br>- Improving SQL for querying & analytics<br><br>🤝 Looking to collaborate on<br>- Open-source projects that make data professionals’ work easier (Python packages, analysis templates, utility scripts)<br><br>- Insights-driven case studies in product, marketing, or customer behavior analysis<br><br>- Small but impactful tools that bridge the gap between raw data & actionable insight<br><br>💬 Ask me about<br>- Turning raw datasets into business-ready insights<br><br>- Blending machine learning with classic analytics<br><br>- Structuring analysis workflows for clarity & reproducibility<br><br>- Why asking the right question matters more than the first line of code<br><br>⚡ Fun fact<br>- I’ve taught 500+ cycling classes — yes, I can shout motivation and explain logistic regression if needed<br><br>- My playlists for coding sessions are suspiciously similar to my high-energy workout playlists<br><br>- I believe clear communication is as important as model accuracy
+
+### 🚀 Currently working on
+- Sharpening **data preprocessing, cleaning & wrangling** skills — from feature engineering & selection to model evaluation & tuning  
+- Expanding into **Tableau** & **Power BI** for data visualization  
+- Improving **SQL** for querying & analytics  
+- Writing **cleaner, more modular Python code** for maintainable projects  
+
+### 🤝 Looking to collaborate on
+- **Open-source projects** that make data professionals’ work easier (Python packages, analysis templates, utility scripts)  
+- **Insights-driven case studies** in product, marketing, or customer behavior analysis  
+- Small but impactful tools that bridge the gap between raw data & actionable insight  
+
+### 📚 Currently learning
+- **Advanced data preparation** techniques for ML & statistical analysis  
+- **Feature engineering & model tuning** best practices  
+- **Interactive dashboards** in Tableau & Power BI  
+- Deepening **SQL** & Excel proficiency  
+
+### 💬 Ask me about
+- Turning raw datasets into **business-ready insights**  
+- Blending **machine learning with classic analytics**  
+- Structuring analysis workflows for **clarity & reproducibility**  
+- Why **asking the right question** matters more than the first line of code  
+
+### ⚡ Fun fact
+- I’ve taught **500+ cycling classes** — yes, I can shout motivation *and* explain logistic regression if needed  
+- My playlists for **coding sessions** are suspiciously similar to my high-energy workout playlists  
+- I believe **clear communication** is as important as model accuracy  
 
 
 # 💻 Tech Stack:
